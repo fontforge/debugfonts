@@ -1,0 +1,14 @@
+Associated with FontForge bug #685:
+   https://github.com/fontforge/fontforge/issues/685
+
+This file demonstrates the problem with FreeType rasterization on large
+fonts.  Apologies for the very large file, but the problem only shows up
+with fonts that are at least a significant fraction of this size.  The
+problem is that generating a bitmap strike with FreeType produces corrupted
+results - but only when using FreeType (not FontForge's own rasterization
+code), and only when operating on thousands of glyphs at once.  Use the
+FontForge native code (possible at one time in the GUI, but that may have
+been disabled, and not possible in a script if FreeType has been linked) or
+do it a thousand glyphs at a time instead of all at once, and the problem
+disappears.  Font is covered by GNU GPL 3 with added font-embedding
+permission.

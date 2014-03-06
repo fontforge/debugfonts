@@ -1,0 +1,7 @@
+Associated with FontForge bug #1138:
+ https://github.com/fontforge/fontforge/issues/1138
+
+This OTF font contains a complicated GSUB feature, which makes the metrics
+window go into infinite recursion and segfault under circumstances described
+in the bug report.  Font is covered by GNU GPL 3 with added font-embedding
+permission.
