@@ -1,0 +1,6 @@
+Associated with FontForge bug #729:
+ https://github.com/fontforge/fontforge/issues/729
+
+This is a Postscript font on which Find Intersections/Remove Overlaps
+generates visibly incorrect results.  Font is covered by GNU GPL 3 with
+added font-embedding permission.
