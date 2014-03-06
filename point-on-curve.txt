@@ -1,0 +1,6 @@
+Associated with FontForge bug #488:
+ https://github.com/fontforge/fontforge/issues/488
+
+Remove overlaps on the single glyph in this font produces results that are
+incorrect in multiple ways.  Font is small enough that we can call it public
+domain.

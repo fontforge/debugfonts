@@ -1,0 +1,6 @@
+Associated with FontForge bug #529:
+ https://github.com/fontforge/fontforge/issues/529
+
+Remove overlaps on the single glyph in this font observed to cause an
+infinite loop under 32-bit Linux; works okay under 64-bit Linux.  Font is
+small enough that we can call it public domain.

@@ -1,0 +1,6 @@
+Associated with FontForge bug #473:
+ https://github.com/fontforge/fontforge/issues/473
+
+Remove overlaps on the single glyph in this font cuts off part of the glyph
+and fills in what should be an empty loop.  Font is small enough that we can
+call it public domain.

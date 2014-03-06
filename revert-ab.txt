@@ -1,0 +1,7 @@
+Associated with FontForge bug #486:
+ https://github.com/fontforge/fontforge/issues/486
+
+Two font files (revert-a.pfb and revert-b.pfb) demonstrating the
+longstanding "revert to more glyphs" problem: if a glyph is added to a file
+outside FontForge, doing "revert" to load the new file in the GUI causes a
+segfault.  Fonts are GPL3 with embedding permission.
