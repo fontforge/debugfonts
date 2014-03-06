@@ -1,0 +1,116 @@
+SplineFontDB: 3.0
+FontName: JieubsidaSunMoonExtraLight
+FullName: Jieubsida Sun-Moon Extra Light 
+FamilyName: Jieubsida
+Weight: Medium
+Copyright: Copyright 2011, 2012, 2013 Matthew Skala.  Licensed under the GNU GPL version 3 with font-embedding clarification.  Note that this generally does NOT permit distribution on "free font" Web sites, because of the requirement to make source code available.
+UComments: "2013-3-8: Created." 
+Version: 0.7 (2025:2040)
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 767
+Descent: 233
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+XUID: [1021 924 447973084 5874267]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1362763020
+ModificationTime: 1363803036
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1042 "" "+ycDHTcLcsuQA" "+wSC7OAAA +dn1bVwAA" "" "+ycDHTcLcsuQA +wSC7OAAA +dn1bVwAA" "" "" "" "" "" "" "http://ko.sourceforge.jp/projects/tsukurimashou/" 
+LangName: 1033 "Copyright +AKkA 2011, 2012, 2013 Matthew Skala" "Jieubsida" "Sun-Moon Extra Light" "Tsukurimashou : Jieubsida Sun-Moon Extra Light : 1363795063" "Jieubsida Sun-Moon Extra Light" "0.7 (2025:2040)" "" "" "" "Matthew Skala" "" "http://tsukurimashou.sourceforge.jp/index.html.en" "http://ansuz.sooke.bc.ca/" "Licensed under the GNU GPL version 3 with font-embedding clarification.  Note that this generally does NOT permit distribution on +ACIA-free font+ACIA Web sites, because of the requirement to make source code available." 
+Encoding: UnicodeFull
+Compacted: 1
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -96
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 0 8 7
+BeginPrivate: 0
+EndPrivate
+BeginChars: 1114112 1
+
+StartChar: uniB1E8
+Encoding: 45544 45544 0
+Width: 833
+VWidth: 833
+Flags: HW
+HStem: 97 5<327 345 327 327 323 345 323 345> 368 5<257 260 260 640 257 643>
+VStem: 153 10<415 421 421 624 624 624> 345 10<97 288 97 288 97 288 102 282 282 282> 545 10<97 289 98 289 102 283 283 283>
+LayerCount: 2
+UndoRedoHistory
+Layer: 0
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+UndoRedoHistory
+Layer: 1
+Undoes
+EndUndoes
+Redoes
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+643 368 m 1
+ 260 368 l 2
+ 227 368 190 368 161 371 c 1
+ 155 384 153 400 153 415 c 2
+ 153 624 l 1
+ 163 631 l 1
+ 163 421 l 2
+ 163 406 165 390 171 376 c 1
+ 199 373 229 372 257 372 c 2
+ 640 372 l 1
+ 643 368 l 1
+768 98 m 1
+ 577 98 l 1
+ 547 98 l 1
+ 545 97 l 1
+ 545 98 l 1
+ 345 97 l 1
+ 345 97 l 1
+ 345 97 l 1
+ 327 97 l 1
+ 102 98 l 1
+ 98 103 l 1
+ 323 102 l 1
+ 345 102 l 1
+ 345 282 l 1
+ 355 288 l 1
+ 355 102 l 1
+ 353 102 l 1
+ 545 102 l 1
+ 545 283 l 1
+ 555 289 l 1
+ 555 102 l 1
+ 553 102 l 1
+ 573 102 l 1
+ 765 103 l 1
+ 768 98 l 1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont

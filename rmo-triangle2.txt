@@ -1,0 +1,7 @@
+Associated with FontForge bug #402:
+ https://github.com/fontforge/fontforge/issues/402
+
+Remove overlaps on the single glyph in this font cuts off corners, creating
+large black areas.  Note that #402 was partially fixed - this file
+demonstrates what seems to be the same problem, still unfixed.  Font is
+small enough that we can call it public domain.
