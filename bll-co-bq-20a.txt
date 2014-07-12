@@ -1,2 +1,5 @@
+File to demonstrate bug #1506:
+   https://github.com/fontforge/fontforge/issues/1506
+
 Open font, select all glyphs (there is only one), Find Intersections,
 Remove Overlap, segfault.
