@@ -1,0 +1,5 @@
+File in support of bug report #1507:
+   https://github.com/fontforge/fontforge/issues/1507
+
+After find intersections/remove overlap, FontForge loops infinitely while
+trying to autohint the file before saving it.
