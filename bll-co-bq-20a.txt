@@ -1,0 +1,2 @@
+Open font, select all glyphs (there is only one), Find Intersections,
+Remove Overlap, segfault.
