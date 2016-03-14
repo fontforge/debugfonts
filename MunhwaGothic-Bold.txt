@@ -1,0 +1,5 @@
+This font is used in the unit testing suite for FontForge. It is used to test
+the ability for FontForge to load a non-OTF CID font and to be able to
+generate an OTF CID font from it (test003.pe).
+
+Source: http://ftp.netbsd.org/pub/pkgsrc/distfiles/adobe-cidfonts/MunhwaGothic-Bold
