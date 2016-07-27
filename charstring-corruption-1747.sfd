@@ -1,0 +1,95 @@
+SplineFontDB: 3.0
+FontName: Pecita1747
+FullName: Pecita1747
+FamilyName: Pecita1747
+Weight: Book
+Copyright: Copyright (c) 2009-2014, Philippe Cochy,,,(http://pecita.eu),\nwith Reserved Font Name Pecita. 
+UComments: "This is a minimal example that exhibits Type2 charstring corruption. The glyph used is based on Pecita http://pecita.eu. This Font Software is licensed under the SIL Open Font License, Version 1.1."
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 184 128400146 26384]
+StyleMap: 0x0000
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1469597352
+ModificationTime: 1469597897
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 90
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 54 27 8
+BeginChars: 256 2
+
+StartChar: A
+Encoding: 65 65 0
+Width: 590
+VWidth: 972
+Flags: W
+HStem: 0 21G<221.5 235.5 516 528> 240 60<389.836 446.475> 270 60<90.2365 162.577>
+VStem: 450 60<61.282 239.665>
+LayerCount: 2
+Fore
+Refer: 1 66 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: B
+Encoding: 66 66 1
+Width: 590
+VWidth: 972
+UnlinkRmOvrlpSave: 1
+Flags: W
+HStem: 0 21G<221.5 235.5 516 528> 240 60<389.836 446.475> 270 60<90.2365 162.577>
+VStem: 450 60<61.282 239.665>
+LayerCount: 2
+Fore
+SplineSet
+550 30 m 0xd0
+ 550 14 536 0 520 0 c 0
+ 512 0 505 3 499 9 c 0
+ 461 47 450 90 450 190 c 0
+ 450 231 440 240 430 240 c 0xd0
+ 412 240 368 228 257 16 c 0
+ 252 6 241 0 230 0 c 0
+ 213 0 200 15 200 30 c 0
+ 200 208 164 270 130 270 c 0xb0
+ 121 270 108 266 91 249 c 0
+ 85 243 78 240 70 240 c 0xd0
+ 54 240 40 254 40 270 c 0
+ 40 278 43 285 49 291 c 0
+ 72 314 99 330 130 330 c 0xb0
+ 214 330 245 237 255 137 c 1
+ 331 264 379 300 430 300 c 0
+ 500 300 510 229 510 190 c 0
+ 510 90 519 73 541 51 c 0
+ 547 45 550 38 550 30 c 0xd0
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
