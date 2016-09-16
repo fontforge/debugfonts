@@ -65,7 +65,7 @@
     <path d="m288.4 170.54v-2.534h-2.528" clip-path="url(#m)" stroke="#f00"/>
     <path marker-end="url(#Arrow1Send)" d="m299.93 160.69-10.123 6.4218" stroke="#f00"/>
    </g>
-   <text style="word-spacing:0px;letter-spacing:0px" line-height="125%" font-size="3.75px" y="161.54971" x="300.5625" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan y="161.54971" x="300.5625">Points added</tspan><tspan y="166.23721" x="300.5625">by LineJoin (square cap) </tspan></text>
+   <text style="word-spacing:0px;letter-spacing:0px" line-height="125%" font-size="3.75px" y="161.54971" x="300.5625" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan y="161.54971" x="300.5625">Points added</tspan><tspan y="166.23721" x="300.5625">by LineJoin (miter join) </tspan></text>
    <path marker-end="url(#h)" d="m274.44 174.86-2.375 7.6875 9.3125-1.9375" marker-start="url(#Arrow1Mstart)" stroke="#000" stroke-width=".5" fill="none"/>
    <text style="word-spacing:0px;letter-spacing:0px" line-height="125%" font-size="3.75px" y="183.48721" x="233.75" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan y="183.48721" x="233.75">Points added</tspan><tspan y="188.17471" x="233.75">by FindStrokePointsCircle</tspan></text>
    <path style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none" d="m283.4 170.53v2.4746" clip-path="url(#c)" stroke="#00f" stroke-width=".5" fill="none"/>
