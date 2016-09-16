@@ -1,0 +1,15 @@
+File in support of fontforge/fontforge#2832.
+   https://github.com/fontforge/fontforge/issues/2832
+
+When stroking paths with a very small stroke width, sometimes the
+output will be incorrect. This is because HideStrokePointsCircle
+skips too far ahead when it is determining which points should be
+hidden. This can be seen by importing issue-2832-square.svg. On
+unpatched versions, the top right corner is skewed, and tapers
+from left to right to become half the width it should be.
+
+Refer to issue-2832-square-expand-stroke-diagram.svg for a 
+diagram of how expand stroke works in this case.
+
+Reducing the skip distance may help (at the cost of increasing
+computation time of what is essentially an O(n^2) algorithm)

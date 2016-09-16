@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="51.54mm" width="141.11mm" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="0 0 499.99999 182.62241">
+ <defs>
+  <marker id="d" refY="0" refX="0" overflow="visible" orient="auto">
+   <path d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(-.2 0 0 -.2 -1.2 0)" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="e" refY="0" refX="0" orient="auto" overflow="visible">
+   <path d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(-.2 0 0 -.2 -1.2 0)" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="f" refY="0" refX="0" overflow="visible" orient="auto">
+   <path d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(-.2 0 0 -.2 -1.2 0)" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="g" refY="0" refX="0" orient="auto" overflow="visible">
+   <path d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(-.2 0 0 -.2 -1.2 0)" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Mstart" refY="0" refX="0" orient="auto" overflow="visible">
+   <path d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(.4 0 0 .4 4 0)" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="h" refY="0" refX="0" orient="auto" overflow="visible">
+   <path d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(-.4 0 0 -.4 -4 0)" stroke="#000" stroke-width="1pt"/>
+  </marker>
+  <marker id="Arrow1Send" refY="0" refX="0" orient="auto" overflow="visible">
+   <path d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(-.2 0 0 -.2 -1.2 0)" stroke="#f00" stroke-width="1pt" fill="#f00"/>
+  </marker>
+  <marker id="a" refY="0" refX="0" overflow="visible" orient="auto">
+   <path d="m-5-5v10h10v-10h-10z" fill-rule="evenodd" transform="scale(.4)" stroke="#bdbdbd" stroke-width="1pt" fill="#bdbdbd"/>
+  </marker>
+  <marker id="SquareM" refY="0" refX="0" orient="auto" overflow="visible">
+   <path d="m-5-5v10h10v-10h-10z" fill-rule="evenodd" transform="scale(.4)" stroke="#bdbdbd" stroke-width="1pt" fill="#bdbdbd"/>
+  </marker>
+  <clipPath id="m" clipPathUnits="userSpaceOnUse">
+   <rect stroke-linejoin="round" height="21.75" width="28.25" stroke="#f00" stroke-linecap="round" y="164.11" x="269.75" stroke-width=".5" fill="#f00"/>
+  </clipPath>
+  <clipPath id="l" clipPathUnits="userSpaceOnUse">
+   <rect stroke-linejoin="round" height="21.75" width="28.25" stroke="#f00" stroke-linecap="round" y="164.11" x="269.75" stroke-width=".5" fill="#f00"/>
+  </clipPath>
+  <clipPath id="c" clipPathUnits="userSpaceOnUse">
+   <rect stroke-linejoin="round" height="21.75" width="28.25" stroke="#f00" stroke-linecap="round" y="164.11" x="269.75" stroke-width=".5" fill="#f00"/>
+  </clipPath>
+  <clipPath id="b" clipPathUnits="userSpaceOnUse">
+   <rect stroke-linejoin="round" height="21.75" width="28.25" stroke="#f00" stroke-linecap="round" y="164.11" x="269.75" stroke-width=".5" fill="#f00"/>
+  </clipPath>
+  <clipPath id="k" clipPathUnits="userSpaceOnUse">
+   <rect stroke-linejoin="round" height="21.75" width="28.25" stroke="#f00" stroke-linecap="round" y="164.11" x="269.75" stroke-width=".5" fill="#f00"/>
+  </clipPath>
+  <clipPath id="j" clipPathUnits="userSpaceOnUse">
+   <rect stroke-linejoin="round" height="21.75" width="28.25" stroke="#f00" stroke-linecap="round" y="164.11" x="269.75" stroke-width=".5" fill="#f00"/>
+  </clipPath>
+  <clipPath id="i" clipPathUnits="userSpaceOnUse">
+   <rect stroke-linejoin="round" height="21.75" width="28.25" stroke="#f00" stroke-linecap="round" y="164.11" x="269.75" stroke-width=".5" fill="#f00"/>
+  </clipPath>
+ </defs>
+ <g transform="translate(-234.09 -19.175)">
+  <g transform="matrix(3.7149 0 0 3.7149 -635.54 -547.87)">
+   <g stroke-width=".5" fill="none">
+    <path style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none" d="m283.4 173h2.4746" clip-path="url(#b)" stroke="#00f"/>
+    <path style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none" d="m156.57 173h126.82" clip-path="url(#b)" stroke="#000"/>
+    <path style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none" d="m283.4 173v32.119" clip-path="url(#c)" stroke="#000"/>
+   </g>
+   <path marker-end="url(#SquareM)" d="m156.57 170.5h129.3" clip-path="url(#i)" marker-start="url(#SquareM)" stroke="#bdbdbd" stroke-width="1px" fill="none"/>
+   <path marker-end="url(#a)" d="m285.9 170.53v34.594" clip-path="url(#j)" marker-start="url(#a)" fill-rule="evenodd" stroke="#bdbdbd" stroke-width="1px" fill="#bdbdbd"/>
+   <g stroke-width=".5" fill="none">
+    <path style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none" d="m285.87 168h-129.3" clip-path="url(#k)" stroke="#000"/>
+    <path style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none" d="m288.4 205.12v-34.594" clip-path="url(#l)" stroke="#000"/>
+    <path d="m288.4 170.54v-2.534h-2.528" clip-path="url(#m)" stroke="#f00"/>
+    <path marker-end="url(#Arrow1Send)" d="m299.93 160.69-10.123 6.4218" stroke="#f00"/>
+   </g>
+   <text style="word-spacing:0px;letter-spacing:0px" line-height="125%" font-size="3.75px" y="161.54971" x="300.5625" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan y="161.54971" x="300.5625">Points added</tspan><tspan y="166.23721" x="300.5625">by LineJoin (square cap) </tspan></text>
+   <path marker-end="url(#h)" d="m274.44 174.86-2.375 7.6875 9.3125-1.9375" marker-start="url(#Arrow1Mstart)" stroke="#000" stroke-width=".5" fill="none"/>
+   <text style="word-spacing:0px;letter-spacing:0px" line-height="125%" font-size="3.75px" y="183.48721" x="233.75" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan y="183.48721" x="233.75">Points added</tspan><tspan y="188.17471" x="233.75">by FindStrokePointsCircle</tspan></text>
+   <path style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none" d="m283.4 170.53v2.4746" clip-path="url(#c)" stroke="#00f" stroke-width=".5" fill="none"/>
+   <path marker-end="url(#g)" d="m300.5 179.74-13.159-5.8384" stroke="#00f" stroke-width=".5" fill="none"/>
+   <text style="word-spacing:0px;letter-spacing:0px" line-height="125%" font-size="6.25px" y="177.84789" x="301.05072" font-family="sans-serif" xml:space="preserve" fill="#000000"><g font-size="3.75px"><tspan y="177.84789" x="301.05072">Points that</tspan><tspan y="182.53539" x="301.05072">need to be hidden</tspan><tspan y="187.22289" x="301.05072">by HideStrokePointsCircle</tspan></g></text>
+   <path marker-end="url(#f)" d="m263.93 162.38h19.976" stroke="#000" stroke-width=".5" fill="none"/>
+   <text style="word-spacing:0px;letter-spacing:0px" line-height="125%" font-size="3.75px" y="155.48721" x="274.35425" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan style="text-anchor:middle;text-align:center" y="155.48721" x="274.35425">Slope</tspan><tspan style="text-anchor:middle;text-align:center" y="160.17471" x="274.35425">{1, 0}</tspan></text>
+   <path marker-end="url(#e)" d="m353.07 172.19v12.021" stroke="#000" stroke-width=".5" fill="none"/>
+   <text style="word-spacing:0px;letter-spacing:0px" xml:space="preserve" font-size="3.75px" y="177.36212" x="362.03549" font-family="sans-serif" line-height="125%" fill="#000000"><tspan style="text-anchor:middle;text-align:center" y="177.36212" x="362.03549">Slope</tspan><tspan style="text-anchor:middle;text-align:center" y="182.04962" x="362.03549">{0, -1}</tspan></text>
+   <path marker-end="url(#d)" d="m291.12 201.18c0.90859-1.5777 1.0268-3.5858 0.30961-5.2592s-2.2528-2.9727-4.0219-3.4028c-1.0973-0.26681-2.2715-0.20912-3.3374 0.16399-1.0659 0.3731-2.0197 1.0603-2.711 1.9532-0.69137 0.89293-1.1178 1.9884-1.2121 3.1138s0.14382 2.2765 0.6769 3.2721" stroke="#000" stroke-width=".5" fill="none"/>
+   <text style="word-spacing:0px;letter-spacing:0px" line-height="125%" font-size="3.75px" y="195.65462" x="294.68677" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan y="195.65462" x="294.68677">HideStrokePointsCircle</tspan><tspan y="200.34212" x="294.68677">processes points anticlockwise</tspan></text>
+  </g>
+ </g>
+</svg>
