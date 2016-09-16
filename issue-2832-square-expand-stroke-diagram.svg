@@ -11,7 +11,7 @@
    <path d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(-.2 0 0 -.2 -1.2 0)" stroke="#000" stroke-width="1pt"/>
   </marker>
   <marker id="g" refY="0" refX="0" orient="auto" overflow="visible">
-   <path d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(-.2 0 0 -.2 -1.2 0)" stroke="#000" stroke-width="1pt"/>
+   <path d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(-.2 0 0 -.2 -1.2 0)" fill="#00f" stroke="#00f" stroke-width="1pt"/>
   </marker>
   <marker id="Arrow1Mstart" refY="0" refX="0" orient="auto" overflow="visible">
    <path d="m0 0 5-5-17.5 5 17.5 5-5-5z" fill-rule="evenodd" transform="matrix(.4 0 0 .4 4 0)" stroke="#000" stroke-width="1pt"/>
@@ -70,7 +70,7 @@
    <text style="word-spacing:0px;letter-spacing:0px" line-height="125%" font-size="3.75px" y="183.48721" x="233.75" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan y="183.48721" x="233.75">Points added</tspan><tspan y="188.17471" x="233.75">by FindStrokePointsCircle</tspan></text>
    <path style="color-rendering:auto;text-decoration-color:#000000;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;block-progression:tb;text-decoration-line:none;text-decoration-style:solid;image-rendering:auto;white-space:normal;text-indent:0;text-transform:none" d="m283.4 170.53v2.4746" clip-path="url(#c)" stroke="#00f" stroke-width=".5" fill="none"/>
    <path marker-end="url(#g)" d="m300.5 179.74-13.159-5.8384" stroke="#00f" stroke-width=".5" fill="none"/>
-   <text style="word-spacing:0px;letter-spacing:0px" line-height="125%" font-size="6.25px" y="177.84789" x="301.05072" font-family="sans-serif" xml:space="preserve" fill="#000000"><g font-size="3.75px"><tspan y="177.84789" x="301.05072">Points that</tspan><tspan y="182.53539" x="301.05072">need to be hidden</tspan><tspan y="187.22289" x="301.05072">by HideStrokePointsCircle</tspan></g></text>
+   <text style="word-spacing:0px;letter-spacing:0px" line-height="125%" font-size="3.75px" y="177.84789" x="301.05072" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan y="177.84789" x="301.05072">Points that</tspan><tspan y="182.53539" x="301.05072">need to be hidden</tspan><tspan y="187.22289" x="301.05072">by HideStrokePointsCircle</tspan></text>
    <path marker-end="url(#f)" d="m263.93 162.38h19.976" stroke="#000" stroke-width=".5" fill="none"/>
    <text style="word-spacing:0px;letter-spacing:0px" line-height="125%" font-size="3.75px" y="155.48721" x="274.35425" font-family="sans-serif" xml:space="preserve" fill="#000000"><tspan style="text-anchor:middle;text-align:center" y="155.48721" x="274.35425">Slope</tspan><tspan style="text-anchor:middle;text-align:center" y="160.17471" x="274.35425">{1, 0}</tspan></text>
    <path marker-end="url(#e)" d="m353.07 172.19v12.021" stroke="#000" stroke-width=".5" fill="none"/>
