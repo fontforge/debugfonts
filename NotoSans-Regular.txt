@@ -1,0 +1,4 @@
+This font is used in the unit testing suite for FontForge. It is used to test
+the ability for FontForge to load a TTC font.
+
+Source: https://github.com/jenskutilek/free-fonts/tree/master/Noto/Noto%20Sans/TTC/NotoSans-Regular.ttc
